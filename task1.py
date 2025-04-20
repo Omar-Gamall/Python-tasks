@@ -10,7 +10,6 @@ difference = budget - total_cost
 print(total_cost)
 print(difference)
 
-difference = budget - total_cost
 
 # compare items against budget?
 if total_cost <= budget:
